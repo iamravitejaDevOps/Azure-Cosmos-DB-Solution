@@ -112,12 +112,7 @@ This document outlines three architecture options to store and retrieve 2 millio
 | ✅ Option 2: Want to save costs but still retain queryable 180-day data |
 | ✅ Option 3: Only need to keep old data for compliance/audits        |
 
----
 
-## 📁 GitHub Suggestions
-- Add this as `README.md` in a folder like `azure-tiered-storage-solution`
-- Include diagrams from architecture.png or flow.png
-- Optionally attach the bash scripts or Azure Function samples
 
 ---
 
