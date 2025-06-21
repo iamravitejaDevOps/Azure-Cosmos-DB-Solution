@@ -114,7 +114,5 @@ This document outlines three architecture options to store and retrieve 2 millio
 
 
 
----
-
-✅ This is a recruiter-ready solution, explaining **architecture, costs, use cases, and trade-offs clearly.**
+### if cost is the highest priority we will go for option 3 otherwise option 2
 
