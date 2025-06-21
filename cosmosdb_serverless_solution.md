@@ -4,7 +4,7 @@
 
 ## 📄 Problem Statement
 
-### You have \~2 million billing records (\~300KB each), totaling \~600GB. You require:
+### You have 2 million billing records (\~300KB each), totaling \~600GB. You require:
 
 - **Fast access to the last 3 months' records (Hot data)**
 - **Long-term retention for older records (Cold data)**
